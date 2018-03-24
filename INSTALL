@@ -1,0 +1,9 @@
+Building gamersonlinecoin
+
+See doc/readme-qt.rst for instructions on building gamersonlinecoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of gamersonlinecoin.
+
+See doc/build-*.txt for instructions on building gamersonlinecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of gamersonlinecoin.
